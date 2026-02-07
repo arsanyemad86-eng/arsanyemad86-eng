@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Arsany Emad</h2>
+<h2 align="center">I'm Arsany Emad</h2>
 <h4 align="center">Front-End Web Developer | HTML • CSS • JavaScript</h4>
 
 <p align="center">
