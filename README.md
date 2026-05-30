@@ -37,9 +37,11 @@ Currently focused on React.js, clean UI design, and shipping projects that actua
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| **UXNIN Store** | Fitness supplements e-commerce — multi-page with cart, wishlist, dashboard | React.js | [→ Live](https://arsanyemad86-eng.github.io/uxnin-store/) |
-| **Finance Tracker** | Personal finance tracker with income/expense management | React.js | [→ Live](https://finance-tracker-gamma-ashen.vercel.app/) |
-| **OE Video Editor** | Landing page for a professional video editing service | HTML / CSS / JS | [→ Live](https://arsanyemad86-eng.github.io/OE_videoeditor/) |
+| UXNIN Store | Fitness supplements e-commerce — multi-page with cart, wishlist, dashboard | React.js | [→ Live](https://arsanyemad86-eng.github.io/uxnin-store/) |
+| Finance Tracker | Personal finance tracker with income/expense management | React.js | [→ Live](https://finance-tracker-gamma-ashen.vercel.app/) |
+| Taskra | All-in-one productivity app — Tasks, Notes, Goals, Pomodoro Timer | React.js | [→ Live](https://github.com/arsanyemad86-eng/taskra) |
+| NOVA | SaaS-style AI code reviewer with static analyzer and history | React.js | [→ Live](https://github.com/arsanyemad86-eng) |
+| OE Video Editor | Landing page for a professional video editing service | HTML / CSS / JS | [→ Live](https://arsanyemad86-eng.github.io/oliver-portfolio/) |
 
 ---
 
