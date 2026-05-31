@@ -1,10 +1,9 @@
 <div align="center">
 
 # Arsany Emad
-### Front-End Developer → Building toward Full-Stack
+### Front-End Developer | React.js & Vanilla JS
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+React.js;Building+real+projects%2C+not+just+tutorials;Front-End+Developer+%E2%86%92+Full-Stack)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+React.js;Building+real+projects%2C+not+just+tutorials;Front-End+Developer+%7C+React.js+%26+Vanilla+JS)
 </div>
 
 ---
@@ -17,7 +16,7 @@ Currently focused on React.js, clean UI design, and shipping projects that actua
 
 - 🔭 Currently building: **UXNIN** — a fitness supplements e-commerce store
 - 🌱 Learning: React.js, component architecture, state management
-- 🎯 Goal: Transition from Front-End to Full-Stack development
+- 🎯 Goal: Master React.js & build full-stack projects
 - 📍 Based in Egypt
 
 ---
