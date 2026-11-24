@@ -1,3 +1,23 @@
+<h1 align="center">Hi, I'm Arsany 👋</h1>
+<h3 align="center">Full-stack Developer · React, TypeScript & Node.js</h3>
+
+<p align="center">
+  Freelance developer building production-style web apps and a full-stack SaaS.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Self-taught developer. I learn by building, and I ship projects that work end to end: UI, API, and database.
+
+- 🔭 Building **NOVA**: an AI-powered code review SaaS
+- 🛒 Building **UXNIN Store**: a full-stack e-commerce app (React + Node.js + MongoDB)
+- 💼 Available for freelance work
+- 📍 Based in Egypt
+
+---
+
 ## 🛠️ Skills
 
 **Front-End**
@@ -39,3 +59,48 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-2E7D32?style=for-the-badge)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF7043?style=for-the-badge)
+
+---
+
+## 🚀 Projects
+
+### NOVA: AI Code Reviewer
+- SaaS-style code reviewer with a static analyzer
+- Review history and PDF export
+- **Stack:** React, Node.js
+- 🔗 [Live](https://nova-woad-delta.vercel.app)
+
+### UXNIN Store: Fitness Supplements E-commerce
+- Auth, product listing, cart, wishlist, checkout
+- Admin dashboard for orders and products
+- **Stack:** React, Tailwind CSS, Node.js, Express, MongoDB
+- 🔗 [Live](https://arsanyemad86-eng.github.io/uxnin-store/)
+
+### Taskra: Productivity App
+- Tasks, notes, goals, and a Pomodoro timer
+- **Stack:** React, TypeScript, Vite
+- 🔗 [Code](https://github.com/arsanyemad86-eng/taskra)
+
+### Finance Tracker
+- Income and expense management with charts and budget alerts
+- **Stack:** React
+- 🔗 [Live](https://finance-tracker-gamma-ashen.vercel.app/)
+
+### OE Video Editor: Landing Page
+- Landing page for a professional video editing service
+- **Stack:** HTML, CSS, JavaScript
+- 🔗 [Live](https://arsanyemad86-eng.github.io/oliver-portfolio/)
+
+---
+
+## 🎯 Current Focus
+
+- Building **NOVA** as a full SaaS product
+- Taking the **UXNIN Store** from a polished UI to a complete full-stack app
+- Taking on freelance projects
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsany-emad-20470b409)
