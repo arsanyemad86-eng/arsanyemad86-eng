@@ -1,22 +1,13 @@
-<h1 align="center">Arsany Emad</h1>
-<h3 align="center">Full-stack Developer · React, TypeScript & Node.JS</h3>
+<h1 align="center">Hi, I'm Arsany 👋</h1>
+<h3 align="center">Full-stack Developer · React, TypeScript & Node.js</h3>
 
 <p align="center">
-  Freelance front-end developer building production-style web apps and a full-stack SaaS.
+  Freelance developer building production-style web apps and a full-stack SaaS.
 </p>
 
 ---
 
-## About
-
-Self-taught front-end developer. I learn by building, and I ship projects that work end to end: UI, API, and database.
-
-- 🔭 Building **NOVA**: an AI-powered code review SaaS
-- 🛒 Building **UXNIN Store**: a full-stack e-commerce app (React + Node.js + MongoDB)
-- 💼 Available for freelance front-end work
-- 📍 Based in Egypt
-
-## Tech Stack
+## 🛠️ Skills
 
 **Front-End**
 
@@ -37,16 +28,47 @@ Self-taught front-end developer. I learn by building, and I ship projects that w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Projects
+---
 
-| Project | What it is | Stack | Link |
-|---|---|---|---|
-| **NOVA** | SaaS-style AI code reviewer: static analyzer, review history, PDF export | React, Node.js | [→ Live](https://nova-woad-delta.vercel.app) |
-| **UXNIN Store** | Fitness supplements e-commerce: auth, cart, wishlist, checkout, admin dashboard | React, Tailwind, Node.js, Express, MongoDB | [→ Live](https://arsanyemad86-eng.github.io/uxnin-store/) |
-| **Taskra** | Productivity app: tasks, notes, goals, Pomodoro timer | React, TypeScript, Vite | [→ Code](https://github.com/arsanyemad86-eng/taskra) |
-| **Finance Tracker** | Personal finance tracker: expenses, charts, budget alerts | React | [→ Live](https://finance-tracker-gamma-ashen.vercel.app/) |
-| **OE Video Editor** | Landing page for a professional video editing service | HTML, CSS, JS | [→ Live](https://arsanyemad86-eng.github.io/oliver-portfolio/) |
+## 🚀 Projects
 
-## Connect
+### NOVA: AI Code Reviewer
+- SaaS-style code reviewer with a static analyzer
+- Review history and PDF export
+- **Stack:** React, Node.js
+- 🔗 [Live](https://nova-woad-delta.vercel.app)
+
+### UXNIN Store: Fitness Supplements E-commerce
+- Auth, product listing, cart, wishlist, checkout
+- Admin dashboard for orders and products
+- **Stack:** React, Tailwind CSS, Node.js, Express, MongoDB
+- 🔗 [Live](https://arsanyemad86-eng.github.io/uxnin-store/)
+
+### Taskra: Productivity App
+- Tasks, notes, goals, and a Pomodoro timer
+- **Stack:** React, TypeScript, Vite
+- 🔗 [Code](https://github.com/arsanyemad86-eng/taskra)
+
+### Finance Tracker
+- Income and expense management with charts and budget alerts
+- **Stack:** React
+- 🔗 [Live](https://finance-tracker-gamma-ashen.vercel.app/)
+
+### OE Video Editor: Landing Page
+- Landing page for a professional video editing service
+- **Stack:** HTML, CSS, JavaScript
+- 🔗 [Live](https://arsanyemad86-eng.github.io/oliver-portfolio/)
+
+---
+
+## 🎯 Current Focus
+
+- Building **NOVA** as a full SaaS product
+- Taking the **UXNIN Store** from a polished UI to a complete full-stack app
+- Taking on freelance front-end projects
+
+---
+
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsany-emad-20470b409)
