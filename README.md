@@ -1,5 +1,5 @@
 <h1 align="center">Arsany Emad</h1>
-<h3 align="center">Front-End Developer · React, TypeScript & Tailwind</h3>
+<h3 align="center">Full-stack Developer · React, TypeScript & Node.JS</h3>
 
 <p align="center">
   Freelance front-end developer building production-style web apps and a full-stack SaaS.
